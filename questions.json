@@ -1,0 +1,230 @@
+{
+  "heading": "Historical Fiction - Maya's Story",
+  "topics": [
+    {
+      "heading": "Historical Fiction",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Where did Maya live?",
+          "options": [
+            { "text": "In a big city" },
+            { "text": "In a small village" },
+            { "text": "On a boat" }
+          ],
+          "answer": 1,
+          "explanation": "The story tells us that Maya lived in a small village surrounded by green fields and tall trees."
+        },
+        {
+          "questionNo": 2,
+          "question": "What did Maya like to do by the river?",
+          "options": [
+            { "text": "Swim" },
+            { "text": "Fish" },
+            { "text": "Watch the fishermen" }
+          ],
+          "answer": 2,
+          "explanation": "Maya loved watching the fishermen and sometimes even helped them by handing them their nets."
+        },
+        {
+          "questionNo": 3,
+          "question": "What did Maya find in the river?",
+          "options": [
+            { "text": "A golden coin" },
+            { "text": "A silver necklace" },
+            { "text": "A fishing net" }
+          ],
+          "answer": 0,
+          "explanation": "Maya discovered a shiny golden coin in the water."
+        },
+        {
+          "questionNo": 4,
+          "question": "Who did Maya show the coin to?",
+          "options": [
+            { "text": "Her mother" },
+            { "text": "Her grandfather" },
+            { "text": "Her friend" }
+          ],
+          "answer": 1,
+          "explanation": "Maya showed the golden coin to her grandfather, who was a wise elder in the village."
+        },
+        {
+          "questionNo": 5,
+          "question": "Why does Maya’s story feel magical?",
+          "options": [
+            { "text": "Because of the coin and her dreams" },
+            { "text": "Because she finds treasure every day" },
+            { "text": "Because the coin was silver" }
+          ],
+          "answer": 0,
+          "explanation": "Maya’s discovery and dreams make the story feel special and magical, like an adventure."
+        },
+        {
+          "questionNo": 6,
+          "question": "What lesson does Maya learn from finding the coin?",
+          "options": [
+            { "text": "Money is important" },
+            { "text": "The past is full of stories" },
+            { "text": "Coins are always valuable" }
+          ],
+          "answer": 1,
+          "explanation": "The coin teaches Maya that history is connected to the present."
+        },
+        {
+          "questionNo": 7,
+          "question": "Why does Maya dream of being a fisherwoman?",
+          "options": [
+            { "text": "She wants to buy a boat" },
+            { "text": "She loves the adventure" },
+            { "text": "She enjoys fishing for money" }
+          ],
+          "answer": 1,
+          "explanation": "Maya dreams of adventures as a fisherwoman."
+        },
+        {
+          "questionNo": 8,
+          "question": "Maya’s favourite place to visit is:",
+          "options": [
+            { "text": "The river" },
+            { "text": "The forest" },
+            { "text": "The mountains" }
+          ],
+          "answer": 0,
+          "explanation": "Maya loves visiting the river Ganga, where she often watches the fishermen."
+        },
+        {
+          "questionNo": 9,
+          "question": "What connects Maya’s story to the 'historical fiction' genre?",
+          "options": [
+            { "text": "The story is real" },
+            { "text": "It mixes history with Maya’s fictional adventure" },
+            { "text": "It only has made-up events" }
+          ],
+          "answer": 1,
+          "explanation": "Historical fiction includes real settings and time periods, with made-up characters and events."
+        },
+        {
+          "questionNo": 10,
+          "question": "The story takes place in:",
+          "options": [
+            { "text": "The future" },
+            { "text": "Modern times" },
+            { "text": "The past" }
+          ],
+          "answer": 2,
+          "explanation": "The story is set in ancient India, a long time ago."
+        },
+        {
+          "questionNo": 11,
+          "question": "What does Maya want to do for her village?",
+          "options": [
+            { "text": "Sell the coin" },
+            { "text": "Learn more about its history" },
+            { "text": "Keep the coin a secret" }
+          ],
+          "answer": 1,
+          "explanation": "Maya wants to learn more and feels proud to connect with her village’s history."
+        },
+        {
+          "questionNo": 12,
+          "question": "How does Maya feel when looking at the stars at the end of the story?",
+          "options": [
+            { "text": "Angry" },
+            { "text": "Bored" },
+            { "text": "Curious" }
+          ],
+          "answer": 2,
+          "explanation": "Maya feels connected to history and is curious about the past and the future."
+        },
+        {
+          "questionNo": 13,
+          "question": "Why is it exciting for Maya to find the coin?",
+          "options": [
+            { "text": "It shows her the value of money" },
+            { "text": "It makes her want to explore more about the past" },
+            { "text": "It means she can buy things with it" }
+          ],
+          "answer": 1,
+          "explanation": "The coin sparks Maya’s curiosity about history and her village's past."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which word best describes the tone of the story?",
+          "options": [
+            { "text": "Sad" },
+            { "text": "Adventurous" },
+            { "text": "Angry" }
+          ],
+          "answer": 1,
+          "explanation": "Maya's discovery and dreams create an adventurous tone."
+        },
+        {
+          "questionNo": 15,
+          "question": "Why was the golden coin special to Maya?",
+          "options": [
+            { "text": "It connected her to history" },
+            { "text": "It was very large" },
+            { "text": "It was brand new" }
+          ],
+          "answer": 0,
+          "explanation": "The golden coin made Maya feel connected to her village’s past."
+        },
+        {
+          "questionNo": 16,
+          "question": "Who is a 'wise elder' in the village?",
+          "options": [
+            { "text": "Maya’s father" },
+            { "text": "Maya’s grandfather" },
+            { "text": "The fishermen" }
+          ],
+          "answer": 1,
+          "explanation": "Maya’s grandfather was known as a wise elder in the village."
+        },
+        {
+          "questionNo": 17,
+          "question": "What is 'historical fiction'?",
+          "options": [
+            { "text": "A story set in the future" },
+            { "text": "A story with only made-up events" },
+            { "text": "A story with real history and some imagination" }
+          ],
+          "answer": 2,
+          "explanation": "Historical fiction combines real historical settings with fictional characters or events."
+        },
+        {
+          "questionNo": 18,
+          "question": "How can we tell if a story is historical fiction?",
+          "options": [
+            { "text": "It is set in a real place and time in the past" },
+            { "text": "It takes place in outer space" },
+            { "text": "It only has animals as characters" }
+          ],
+          "answer": 0,
+          "explanation": "Historical fiction stories are based on real historical places and times but use fictional characters or events to tell the story."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which of these would not be in a historical fiction story?",
+          "options": [
+            { "text": "A knight from medieval times" },
+            { "text": "A time machine travelling to the future" },
+            { "text": "A farm family from the 1800s" }
+          ],
+          "answer": 1,
+          "explanation": "Historical fiction is set in the past and does not include futuristic inventions like time machines, which are more common in science fiction."
+        },
+        {
+          "questionNo": 20,
+          "question": "In historical fiction, which of these could be made up by the author?",
+          "options": [
+            { "text": "The time period of the story" },
+            { "text": "The main character’s adventures" },
+            { "text": "The fact that the story takes place in the past" }
+          ],
+          "answer": 1,
+          "explanation": "Authors create fictional characters and adventures in historical fiction, but the setting or time period is based on real history."
+        }
+      ]
+    }
+  ]
+}
